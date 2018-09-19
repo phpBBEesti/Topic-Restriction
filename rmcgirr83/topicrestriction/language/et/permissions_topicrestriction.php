@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * Topic Restriction extension for the phpBB Forum Software package.
 *
@@ -38,5 +39,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACL_F_TOPIC_VIEW'		=> 'Can view topics',
+	'ACL_F_TOPIC_VIEW'		=> 'Saab vaadata teemasid',
 ));
