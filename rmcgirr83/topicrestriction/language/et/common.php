@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * Topic Restriction extension for the phpBB Forum Software package.
 *
@@ -38,5 +39,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'TOPIC_VIEW_NOTICE'		=> 'You do not have access to the posts in this forum.',
+	'TOPIC_VIEW_NOTICE'		=> 'Teil ei ole sellele foorumis postitusi.',
 ));
